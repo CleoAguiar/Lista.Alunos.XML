@@ -1,0 +1,10 @@
+<Banco name="Lista Alunos">
+<registro id="001">
+	<nomes>Ana</nome>
+	<fone>991112233</fone>
+</registro>
+<registro id="002">
+	<nomes>Beto</nome>
+	<fone>9922334455</fone>
+</registro>
+</Banco>
